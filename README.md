@@ -1,7 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Mod 1 Excel kickstarter
-* Two major recommendations for a successful play
-* First, reduce your goal amount. Statistically, successful US plays with a goal of roughly 5k had fully funded pledge amounts. The average goal of a failed US play was roughly 10k and pledges rarely met their goals. 
-* Second, release you play in May or June. Globally, these two months had a significantly higher success rate. 
-![Monthly Outcomes chart](https://user-images.githubusercontent.com/103381098/162637256-bd94d81a-f37c-44a6-b7b5-0ea4ae5ce17a.png)
-![parent category chart](https://user-images.githubusercontent.com/103381098/162637258-e8bbb8ed-c3b2-48d6-9fa9-21aef27bbb06.png)
+![Launch Date](https://user-images.githubusercontent.com/103381098/162637449-030e9b41-3da0-4520-ac7d-06ac18310848.png)
+![Monthly Outcomes chart](https://user-images.githubusercontent.com/103381098/162637450-de74c30b-9a7e-421d-9c64-3b2fa4c5c756.png)
+![parent category chart](https://user-images.githubusercontent.com/103381098/162637451-c61837a9-a5c7-42ee-aee1-9f4df0d13995.png)
+![US Plays Stat Analysis](https://user-images.githubusercontent.com/103381098/162637452-2eb3cfe4-cb75-474b-afc3-349b7afeecdc.png)

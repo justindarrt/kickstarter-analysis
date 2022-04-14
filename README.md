@@ -1,7 +1,20 @@
-# An Analysis of Kickstarter Campaigns
-Module 1 Excel kickstarter
-Graphics below indicate success of play depends on lower goal amount and late spring or early summer launch 
-![Monthly Outcomes chart](https://user-images.githubusercontent.com/103381098/162637529-6a81b4f9-d96b-413f-bdf2-3cd4b43c9bde.png)
-![parent category chart](https://user-images.githubusercontent.com/103381098/162637530-fab3f83d-4fcc-4c39-acef-48cea254dbef.png)
-![US Plays Stat Analysis](https://user-images.githubusercontent.com/103381098/162637531-987500e2-e673-41e9-91e2-ffa59b76cbfd.png)
-![Launch Date](https://user-images.githubusercontent.com/103381098/162637532-849bd268-3e7d-41d4-9a57-bf2ee89de343.png)
+# Kickstarting with Excel
+
+## Overview of Project
+Louise has come very close to her fundraising goal in a short amount of time. We have analyzed the potential outcome of her play based on launch dates and size of goal using historical kickstart data. We have even taken this a step further and isolated Kickstarter data to focus on a more relatable  Theaters and Plays.
+
+### Purpose
+The purpose of this project is to determine the potenial outcome (success, fail, or cancel) of Louise's play, Fever, and propose an opening date.
+
+## Analysis and Challenges
+Basic excel features like formulas, pivot tables, filters, and graphs were used for analysis. Fortunately, the Kickstarter dataset was clean and required no scrubbing of the data. Values matched corresponding fields, strings and numeric fields matched anticipated values.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/103381098/163433254-9e7c0843-a410-44ec-8ed3-a43c6a85e817.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/103381098/163433291-e7ea48e9-dbef-4fd4-bfe2-f26471770a05.png)
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
